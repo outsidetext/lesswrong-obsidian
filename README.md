@@ -1,2 +1,3 @@
-# lesswrong-obsidian
- 
+# Lesswrong Obsidian Theme
+
+![example.png]
